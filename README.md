@@ -29,3 +29,14 @@ Running the model is very straightforward. Please follow these steps:
 4. Run the training script:
    ```bash
    python train.py
+
+## Citation
+If you find our code, datasets, or methodology helpful in your research, please consider citing our paper:
+```bibtex
+@article{wang2026enhanced,
+  title={Enhanced Spatiotemporal Transformer for Facial Action Unit Detection Using Multi-Scale Pyramid Attention and Cross-Channel Feature Fusion},
+  author={Wang, Junjie and Qi, Jin},
+  journal={The Visual Computer},
+  year={2026},
+  publisher={Springer Nature}
+}
