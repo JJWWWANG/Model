@@ -1,17 +1,9 @@
-## Requirements
-torch                    1.6.0, 
-torchaudio               0.6, 
-tqdm, 
-Numpy, 
-OpenCV 4.2.0
-lmdb
-einops
+# Enhanced Spatiotemporal Transformer for Facial Action Unit Detection Using Multi-Scale Pyramid Attention and Cross-Channel Feature Fusion
 
-## Reference
-part of code is from
+[![Journal](https://img.shields.io/badge/Journal-The_Visual_Computer-blue.svg)](https://link.springer.com/journal/371)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-[Former-DFER](https://github.com/zengqunzhao/Former-DFER)
+This repository contains the official PyTorch implementation of the paper **"Enhanced Spatiotemporal Transformer for Facial Action Unit Detection Using Multi-Scale Pyramid Attention and Cross-Channel Feature Fusion"**, submitted to <<The Visual Computer>>.
 
-[Two-Stream Aural-Visual Affect Analysis in the Wild](https://github.com/kuhnkeF/ABAW2020TNT)
-
+Our proposed model introduces a lightweight, plug-and-play feature extraction enhancement strategy that effectively captures subtle and multi-scale facial muscle deformations in real-world scenarios, setting a new benchmark for AU detection.
 
