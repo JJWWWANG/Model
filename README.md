@@ -1,5 +1,5 @@
 # Enhanced Spatiotemporal Transformer for Facial Action Unit Detection Using Multi-Scale Pyramid Attention and Cross-Channel Feature Fusion
-[![DOI](https://zenodo.org/badge/1179545482.svg)](https://doi.org/10.5281/zenodo.19124244)
+# [![DOI](https://zenodo.org/badge/1179545482.svg)](https://doi.org/10.5281/zenodo.19124244)
 
 This repository contains the official PyTorch implementation of the paper **"Enhanced Spatiotemporal Transformer for Facial Action Unit Detection Using Multi-Scale Pyramid Attention and Cross-Channel Feature Fusion"**, submitted to ***The Visual Computer***.
 
