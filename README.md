@@ -1,7 +1,7 @@
-# Enhanced Spatiotemporal Transformer for Facial Action Unit Detection Using Multi-Scale Pyramid Attention and Cross-Channel Feature Fusion
+# Facial Action Unit Detection Based on Multi-Scale Local Feature Extraction
 # [![DOI](https://zenodo.org/badge/1179545482.svg)](https://doi.org/10.5281/zenodo.19124244)
 
-This repository contains the official PyTorch implementation of the paper **"Enhanced Spatiotemporal Transformer for Facial Action Unit Detection Using Multi-Scale Pyramid Attention and Cross-Channel Feature Fusion"**, submitted to ***The Visual Computer***.
+This repository contains the official PyTorch implementation of the paper **"Facial Action Unit Detection Based on Multi-Scale Local Feature Extraction"**, submitted to ***Pattern Recognition Letters***.
 
 Our proposed model introduces a lightweight, plug-and-play feature extraction enhancement strategy that effectively captures subtle and multi-scale facial muscle deformations in real-world scenarios, setting a new benchmark for AU detection.
 
@@ -34,7 +34,7 @@ Running the model is very straightforward. Please follow these steps:
 If you find our code, datasets, or methodology helpful in your research, please consider citing our paper:
 ```bibtex
 @article{wang2026enhanced,
-  title={Enhanced Spatiotemporal Transformer for Facial Action Unit Detection Using Multi-Scale Pyramid Attention and Cross-Channel Feature Fusion},
+  title={Facial Action Unit Detection Based on Multi-Scale Local Feature Extraction},
   author={Wang, Junjie and Qi, Jin},
   journal={The Visual Computer},
   year={2026},
